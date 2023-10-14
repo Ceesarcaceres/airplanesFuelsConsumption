@@ -1,0 +1,23 @@
+Label,Description
+SDOMGallons,Scheduled Service Domestic Non-Alaskan
+SATLGallons,Scheduled Service International Atlantic
+SPACGallons,Scheduled Service International Pacific
+SLATGallons,Scheduled Service International Latin America
+NALAGallons,Non Scheduled Service Domestic Intra Alaska
+NDOMGallons,Non Scheduled Service Domestic Non-Alaskan
+NATLGallons,Non Scheduled Service International Atlantic
+NPACGallons,Non Scheduled Service International Pacific
+NLATGallons,Non Scheduled Service International Latin America
+MACGallons(Non Scheduled Service International MAC),Military Airlift Command Operations (Includes Passenger/Cargo Military Contracted Flights)
+SALACost,Scheduled Service Domestic Intra Alaska
+SDOMCost,Scheduled Service Domestic Non-Alaskan
+SATLCost,Scheduled Service International Atlantic
+SPACCost,Scheduled Service International Pacific
+SLATCost,Scheduled Service International Latin America
+SINTCost,Scheduled Service International Subtotal
+NALACost,Non Scheduled Service Domestic Intra Alaska
+NDOMCost,Non Scheduled Service Domestic Non-Alaskan
+NATLCost,Non Scheduled Service International Atlantic
+NPACCost,Non Scheduled Service International Pacific
+NLATCost,Non Scheduled Service International Latin America
+MACCost(Non Scheduled Service International MAC),Military Airlift Command Operations (Includes Passenger/Cargo Military Contracted Flights)
